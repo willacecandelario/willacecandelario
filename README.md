@@ -1,16 +1,34 @@
-## Hi there 👋
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    Willace Candelario | My Portfolio
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
 
-<!--
-**willacecandelario/willacecandelario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<header>
+    <nav>
+        <h2>Welcome!</h2>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="about.html">About</a></li>
+            <li><a href="projects.html">Projects</a></li>
+            <li><a href="contact.html">Contact</a></li>
+        </ul>
+    </nav>
+</header>
 
-Here are some ideas to get you started:
+<section class="hero">
+    <img src="images/profile.jpg" alt="Profile">
+    <h1>Hello, My name is Willace</h1>
+    <p>An Incoming 3rd Student from DNSC, currently taking Bachelor of Science in Information Systems</p>
+</section>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<footer>
+    <p>© All Rights Reserved | 2026.</p>
+</footer>
+
+</body>
+</html>
