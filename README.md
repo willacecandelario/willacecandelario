@@ -12,9 +12,8 @@
     <nav>
         <h2>👋 Welcome!</h2>
         <ul>
-            <li><a href="index.html">Home</a></li>
             <li><a href="https://github.com/willacecandelario/AboutMe/tree/main">About</a></li>
-            <li><a href="projects.html">Projects</a></li>
+            <li><a href="projects.html">Projects and Certificates</a></li>
             <li><a href="contact.html">Contact</a></li>
         </ul>
     </nav>
