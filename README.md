@@ -10,7 +10,7 @@
 
 <header>
     <nav>
-        <h2>Welcome!</h2>
+        <h2>👋 Welcome!</h2>
         <ul>
             <li><a href="index.html">Home</a></li>
             <li><a href="about.html">About</a></li>
