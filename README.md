@@ -14,13 +14,12 @@
         <ul>
             <li><a href="https://github.com/willacecandelario/AboutMe/tree/main">About</a></li>
             <li><a href="https://github.com/willacecandelario/ProjectandCert/tree/main">Projects and Certificate</a></li>
-            <li><a href="contact.html">Contact</a></li>
+            <li><a href="https://github.com/willacecandelario/Contact/tree/main">Contact</a></li>
         </ul>
     </nav>
 </header>
 
 <section class="hero">
-    <img src="images/profile.jpg" alt="Profile">
     <h1>Hello, My name is Willace</h1>
     <p>An Incoming 3rd Student from DNSC, currently taking Bachelor of Science in Information Systems</p>
 </section>
